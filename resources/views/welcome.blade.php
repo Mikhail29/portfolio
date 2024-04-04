@@ -124,7 +124,7 @@
                     </div>
 
                     <div class="box">
-                        <h1 class="count" data-count="50">50+</h1>
+                        <h1 class="count" data-count="100">100+</h1>
                         <h3>@lang('завершено проектів')</h3>
                     </div>
 
